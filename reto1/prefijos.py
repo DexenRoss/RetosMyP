@@ -1,3 +1,6 @@
+#Autor: @EmilioCaballero99
+
+#Función que busca los prefijos en el arreglo de cadenas dado
 def bus_sub(cad):
     for i in range(len(cadenas)):
         for j in range(1,len(cadenas[i])+1):

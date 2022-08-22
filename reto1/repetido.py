@@ -1,3 +1,6 @@
+#Autor: @EmilioCaballero99
+
+#Pequeño programa que te dice el primer caracter de una cadena que no se repite
 cadena= input("Escriba una frase o palabra: ")
 pos=0
 aux =0
